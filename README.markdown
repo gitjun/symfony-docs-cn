@@ -1,5 +1,11 @@
 Symfony Documentation
 =====================
+It is a chinese of translation of the Symfony2 Documentation (official repository) 
+这是symfony2 。
+
+translate by Xujiajun
+
+---
 
 This documentation is rendered online at http://symfony.com/doc/current/
 
